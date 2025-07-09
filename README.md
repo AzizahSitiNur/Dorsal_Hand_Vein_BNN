@@ -32,5 +32,5 @@ Hasil penelitian menunjukkan bahwa model BPNN mampu memberikan performa yang bai
 ![Fold 3](img/Fold3.png)
 ![Fold 4](img/Fold4.png)
 ![Fold 5](img/Fold5.png)
-![Fold 1-5](img/Average Fold1-5.png)
+![Fold 1-5](img/Average_Fold1-5.png)
 
