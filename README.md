@@ -1,6 +1,6 @@
 # Analisis Dorsal Hand Vein dengan Backpropagation Neural Network (BPNN)
 
-Proyek ini bertujuan untuk mengembangkan sistem autentikasi pengguna berbasis citra pembuluh darah dorsal tangan dengan menggunakan algoritma **Backpropagation Neural Network (BPNN)** yang dievaluasi menggunakan teknik **K-Fold Cross Validation**.
+Proyek ini bertujuan untuk mengembangkan sistem autentikasi pengguna berbasis citra pembuluh darah dorsal tangan dengan menggunakan algoritma **Backpropagation Neural Network (BPNN)**.
 
 ---
 
